@@ -14,7 +14,7 @@ I'm a **BCA Student** passionate about building intelligent systems, data pipeli
 - 💬 Ask me about **Python, Machine Learning, LangChain, Data Analysis**
 - 🌏 I speak **Bengali, Hindi, English & Japanese (N4)**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ayus-chakraborty-a17635378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
-
+**[Hackerrank](https://www.hackerrank.com/ayuschakraborty1)**
 ---
 
 ## 🌐 Socials:
