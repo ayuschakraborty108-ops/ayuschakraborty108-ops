@@ -83,9 +83,7 @@ I'm a **BCA Student** passionate about building intelligent systems, data pipeli
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayuschakraborty108-ops&show_icons=true&theme=radical)
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayuschakraborty108-ops&show_icons=true&theme=radical)
 
 ---
 
