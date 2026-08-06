@@ -53,6 +53,7 @@ I'm a **BCA Student** passionate about building intelligent systems, data pipeli
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=chromadb&logoColor=white)
 
 **Tools**
 
