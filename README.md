@@ -20,7 +20,6 @@ I'm a **BCA Student** passionate about building intelligent systems, data pipeli
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayus-chakraborty-a17635378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/ayuschakraborty1)
 ---
 
