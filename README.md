@@ -84,8 +84,8 @@ I'm a **BCA Student** passionate about building intelligent systems, data pipeli
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayuschakraborty108-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuschakraborty108-ops&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 ---
 
