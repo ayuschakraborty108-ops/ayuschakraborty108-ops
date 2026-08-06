@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Ayus+Chakraborty!+%F0%9F%91%8B;Aspiring+AI+%26+ML+Engineer;Python+%7C+LangChain+%7C+PyTorch;Turning+data+into+intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Ayus+Chakraborty!+%F0%9F%91%8B;Aspiring+AI+%26+ML+Engineer;Python+%7C+LangGraph+%7C+PyTorch;Turning+data+into+intelligence+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,6 +18,7 @@ I'm a **BCA Student** passionate about building intelligent systems, data pipeli
 ---
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayus-chakraborty-a17635378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/ayus-chakraborty-a17635378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/ayuschakraborty1)
 ---
